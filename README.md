@@ -24,7 +24,7 @@ A legible monospace font... the very typeface you’ve been trained to recognize
 1. Added all of [Nerd font's](https://github.com/dtinth/comic-mono-font) glyph sets with [Nerd Font's Patcher](https://github.com/NerdFonts/patcher)
 The following Sankey flow diagram shows the current glyph sets included:
 
-![Sankey flow diagram showing the current glyph sets included](https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/images/sankey-glyphs-combined-diagram.svg) -image credits NerdFonts
+![Sankey flow diagram showing the current glyph sets included](https://raw.githubusercontent.com/ryanoasis/nerd-fonts/master/images/sankey-glyphs-combined-diagram.svg) -image credits [ryanoasis/nerd-fonts(https://github.com/ryanoasis/nerd-fonts)
 
 ## Differences from Comic Shanns
 1. All glyphs have been [adjusted](https://www.reddit.com/r/programming/comments/kj0prs/comic_mono_font/ghc7krt/?utm_source=reddit&utm_medium=web2x&context=3) to have exactly the same width (using code based on [monospacifier](https://github.com/cpitclaudel/monospacifier)).
