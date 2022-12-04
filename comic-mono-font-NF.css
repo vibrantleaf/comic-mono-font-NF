@@ -1,0 +1,11 @@
+@font-face {
+  font-family: Comic Mono NF;
+  font-weight: normal;
+  src: url(https://github.com/vibrantleaf/comic-mono-font-NF/releases/download/2022-12-3/Comic.Mono.Bold.Nerd.Font.Complete.ttf);
+}
+
+@font-face {
+  font-family: Comic Mono NF;
+  font-weight: bold;
+  src: url(https://github.com/vibrantleaf/comic-mono-font-NF/releases/download/2022-12-3/Comic.Mono.Nerd.Font.Complete.ttf);
+}
