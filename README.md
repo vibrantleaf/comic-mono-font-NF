@@ -8,9 +8,17 @@ A legible monospace font... the very typeface you’ve been trained to recognize
 </p>
 
 ## Download
+### Base
 - [ComicMono.ttf](https://dtinth.github.io/comic-mono-font/ComicMono.ttf)
 - [ComicMono-Bold.ttf](https://dtinth.github.io/comic-mono-font/ComicMono-Bold.ttf)
 
+### Patched with [Nerd font's](https://github.com/dtinth/comic-mono-font) glyph sets
+- [Comic.Mono.Nerd.Font.Complete.ttf](https://github.com/vibrantleaf/comic-mono-font-NF/releases/download/2022-12-3/Comic.Mono.Nerd.Font.Complete.ttf)
+- [Comic.Mono.Bold.Nerd.Font.Complete.ttf](https://github.com/vibrantleaf/comic-mono-font-NF/releases/download/2022-12-3/Comic.Mono.Bold.Nerd.Font.Complete.ttf)
+
+### Patched with [Nerd font's](https://github.com/dtinth/comic-mono-font) glyph sets, Windows Compatible 
+- [Comic.Mono.Nerd.Font.Complete.Windows.Compatible.ttf](https://github.com/vibrantleaf/comic-mono-font-NF/releases/download/2022-12-3/Comic.Mono.Nerd.Font.Complete.Windows.Compatible.ttf)
+- [Comic.Mono.Bold.Nerd.Font.Complete.Windows.Compatible.ttf](https://github.com/vibrantleaf/comic-mono-font-NF/releases/download/2022-12-3/Comic.Mono.Bold.Nerd.Font.Complete.Windows.Compatible.ttf)
 ## Differences from Comic Shanns
 1. All glyphs have been [adjusted](https://www.reddit.com/r/programming/comments/kj0prs/comic_mono_font/ghc7krt/?utm_source=reddit&utm_medium=web2x&context=3) to have exactly the same width (using code based on [monospacifier](https://github.com/cpitclaudel/monospacifier)).
 2. The glyph metrics have been adjusted to make it display better alongside system font, based on [Cousine](https://fonts.google.com/specimen/Cousine)’s metrics.
@@ -31,17 +39,10 @@ I have no font creation skills; I’m just a software developer. This font famil
 ```
 
 ## CDN
-You can use this font in your web pages by including the stylesheet. CDN is provided by [jsDelivr](https://www.jsdelivr.com/package/npm/comic-mono).
+You can use this font in your web pages by including the stylesheet. Based on by [jsDelivr](https://www.jsdelivr.com/package/npm/comic-mono). Hosed via Github Releases. 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/comic-mono@0.0.1/index.css">
+<link rel="stylesheet" href="https://github.com/vibrantleaf/comic-mono-font-NF/releases/download/2022-12-3/comic-mono-font-NF.css">
 ```
-
-## npm Package
-The contents of this package is also [published to npm](https://www.npmjs.com/package/comic-mono), although the font files are not optimized. See fontsource package (below) for a better option.
-
-## Packages published by third parties
-- Fontsource: [@fontsource/comic-mono](https://www.npmjs.com/package/@fontsource/comic-mono) ([thanks @DecliningLotus](https://github.com/fontsource/fontsource/pull/117))
-- Arch Linux AUR: [ttf-comic-mono-git](https://aur.archlinux.org/packages/ttf-comic-mono-git/) (maintained by DBourgeoisat)
 
 ## License
 It is licensed under the [MIT License](LICENSE).
