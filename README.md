@@ -20,6 +20,13 @@ A legible monospace font... the very typeface you’ve been trained to recognize
 - [Comic.Mono.Nerd.Font.Complete.Windows.Compatible.ttf](https://github.com/vibrantleaf/comic-mono-font-NF/releases/download/2022-12-3/Comic.Mono.Nerd.Font.Complete.Windows.Compatible.ttf)
 - [Comic.Mono.Bold.Nerd.Font.Complete.Windows.Compatible.ttf](https://github.com/vibrantleaf/comic-mono-font-NF/releases/download/2022-12-3/Comic.Mono.Bold.Nerd.Font.Complete.Windows.Compatible.ttf)
 
+## Limitations 
+- Greak
+- Cyrillic
+- cjk
+- Other non-latian Alphabets
+- Some Ligatures
+
 ## Differences from Comic Mono
 1. Added all of [Nerd font's](https://github.com/dtinth/comic-mono-font) glyph sets with [Nerd Font's Patcher](https://github.com/NerdFonts/patcher)
 The following Sankey flow diagram shows the current glyph sets included:
