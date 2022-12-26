@@ -23,8 +23,9 @@ A legible monospace font... the very typeface you’ve been trained to recognize
 ## Limitations 
 - Greak
 - Cyrillic
-- cjk
-- Other non-latian Alphabets
+- CJKV
+- Thai
+- Many other non-latian Alphabets may have errors
 - Some Ligatures
 
 ## Differences from Comic Mono
