@@ -20,13 +20,38 @@ A legible monospace font... the very typeface you’ve been trained to recognize
 - [Comic.Mono.Nerd.Font.Complete.Windows.Compatible.ttf](https://github.com/vibrantleaf/comic-mono-font-NF/releases/download/2022-12-3/Comic.Mono.Nerd.Font.Complete.Windows.Compatible.ttf)
 - [Comic.Mono.Bold.Nerd.Font.Complete.Windows.Compatible.ttf](https://github.com/vibrantleaf/comic-mono-font-NF/releases/download/2022-12-3/Comic.Mono.Bold.Nerd.Font.Complete.Windows.Compatible.ttf)
 
-## Limitations 
-- Greak
+## Confermed Working Gliphs Sets
+- Emoji
+- Latin
+- German
+- Arabic
+- Arabic Numerals
+- Persian
 - Cyrillic
-- CJKV
+- Coptic
+- Hebrew
+- Polish
+- Simplified Chinese
+- Korean Hangul
+- Japanese Katakana
+- Japanese Hiragana
 - Thai
-- Many other non-latian Alphabets may have errors
-- Some Ligatures
+- Lao
+- Turkish
+- Ukrainian
+- Ethiopic Geʻez
+
+## Limitations 
+Some of the following gliphs sets may have issuse rendering, i would recomend you to install a fallback font like liberation sans or ms fonts
+- Traditional, Chinese (probably incomplete)
+- Balinese, (missing)
+- Mongolian, (missing)
+- Deseret, (missing)
+- Hungarian, (incomplete)
+- Myanmar, (incomplete)
+
+- Many other gliphs sets may have errors
+- Some Ligatures may be missing
 
 ## Differences from Comic Mono
 1. Added all of [Nerd font's](https://github.com/dtinth/comic-mono-font) glyph sets with [Nerd Font's Patcher](https://github.com/NerdFonts/patcher)
